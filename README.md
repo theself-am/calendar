@@ -1,6 +1,7 @@
 # Project Setup Instructions
 
 This guide will help you set up your environment to synchronize Trello tasks with Google Calendar using a Python script. Before you begin, ensure you have minimal Python experience and understand what API keys are and how they are used.
+If you have any questions or ideas about product development, reach out to me in the issues section.
 
 ## Setup Instructions
 
